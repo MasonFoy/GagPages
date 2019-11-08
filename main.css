@@ -40,5 +40,9 @@ body {
 	width: 82%;
 	overflow: auto;
 }
+.subtitle {
+	background-image: linear-gradient( to left, violet, indigo, blue, green, yellow, orange, red);
+	color: transparent;
+}
 
 
