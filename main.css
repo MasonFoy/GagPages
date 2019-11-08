@@ -4,9 +4,13 @@ html {
 body {
 	margin: 0;
 	height: 100%;
+}
 a{
 	color: #FFF700;	
 }
+.used{
+	text-decoration: underline;
+	color: #FFFFFF;
 }
 #container {
 	height: 800px;
@@ -31,8 +35,5 @@ a{
 	width: 82%;
 	overflow: auto;
 }
-.used{
-	text-decoration: underline;
-	color: #FFFFFF;
-}
+
 
