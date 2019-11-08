@@ -6,7 +6,7 @@ body {
 	height: 100%;
 }
 a{
-	color: #FFF700;	
+	text-color: #FFF700;	
 }
 .used{
 	text-decoration: underline;
