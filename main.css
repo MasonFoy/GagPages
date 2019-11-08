@@ -35,7 +35,7 @@ body {
 	width: 82%;
 	overflow: auto;
 }
-h1{
+#content h1{
 	color:#2980b9;
 	text-decoration: underline;
 }
