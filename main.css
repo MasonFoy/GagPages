@@ -4,6 +4,9 @@ html {
 body {
 	margin: 0;
 	height: 100%;
+a{
+	color: #FFF700;	
+}
 }
 #container {
 	height: 800px;
@@ -32,6 +35,4 @@ body {
 	text-decoration: underline;
 	color: #FFFFFF;
 }
-a{
-	color: #FFF700;	
-}
+
