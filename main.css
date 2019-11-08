@@ -12,6 +12,7 @@ body {
 .title{
 	color:#2980b9;
 	text-decoration: underline;
+	font-size:36px;
 }
 #container {
 	height: 800px;
