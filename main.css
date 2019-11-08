@@ -28,3 +28,7 @@ body {
 	width: 82%;
 	overflow: auto;
 }
+.used{
+	text-decoration: underline;
+	color: white;
+}
