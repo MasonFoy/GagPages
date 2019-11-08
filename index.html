@@ -22,6 +22,16 @@ body {
 
 /* Page Content */
 .content {padding:20px;}
+  
+  #sidebar {
+	background-color: #2980b9;
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+	width: 18%;
+	overflow: auto;
+}
+  
 </style>
 </head>
 <body>
@@ -32,7 +42,17 @@ body {
 </div>
 
 <div class="content">
-<!--Content-->
+<div id="container">
+	<div id="sidebar">
+		<a href="jokes.html" style="color:#FFF700;"><h1>Jokes</h1></a>
+<p></p>
+		<a href="gags.html" style="color:#FFF700;"><h1>Gags</h1></a>
+		<div id="sidebar-content" style="height: 1400px"></div>
+	</div><div id="content">
+		<h1>Content!</h1>
+		<div id="main-content" style="height: 1800px"></div>
+	</div>
+</div>
 </div>
 
 </body>
