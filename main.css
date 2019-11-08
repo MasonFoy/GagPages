@@ -41,7 +41,7 @@ body {
 	overflow: auto;
 }
 .subtitle {
-	background-image: linear-gradient(to left,red, violet, blue);
+	background-image: linear-gradient(to left, red, violet, blue);
 	-webkit-background-clip: text;
 	color: transparent;
 }
