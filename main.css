@@ -9,6 +9,10 @@ body {
 	text-decoration: underline;
 	color: #FFFFFF;
 }
+.title{
+	color:#2980b9;
+	text-decoration: underline;
+}
 #container {
 	height: 800px;
 }
@@ -35,8 +39,5 @@ body {
 	width: 82%;
 	overflow: auto;
 }
-#content h1{
-	color:#2980b9;
-	text-decoration: underline;
-}
+
 
