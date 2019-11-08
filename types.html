@@ -15,6 +15,7 @@ body {
 	height: 100%;
 }
 #sidebar {
+	positition: relative;
 	background-color: #2980b9;
 	display: inline-block;
 	vertical-align: top;
@@ -23,6 +24,7 @@ body {
 	overflow: auto;
 }
 #content {
+	position: absolute;
 	align:right;
 	background-color: #f8f8f8;
 	display: inline-block;
@@ -55,7 +57,7 @@ body {
 		<div id="sidebar-content" style="height: 800px"></div>
 	</div>
 		
-		<div id="main-content" style="height: 800px">Testing 2</div>
+		<div id="content" style="height: 800px">Testing 2</div>
 	</div>
 	
 	
