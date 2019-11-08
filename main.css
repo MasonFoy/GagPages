@@ -5,9 +5,6 @@ body {
 	margin: 0;
 	height: 100%;
 }
-a{
-	text-color: #FFF700;	
-}
 .used{
 	text-decoration: underline;
 	color: #FFFFFF;
@@ -23,6 +20,9 @@ a{
 	height: 100%;
 	width: 18%;
 	overflow: auto;
+}
+#sidebar a{
+	color: #FFF700;	
 }
 #content {
 	text-align:center;
