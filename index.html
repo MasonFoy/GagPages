@@ -1,66 +1,50 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<title>GagPages - Home</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-	#body { overflow:auto; }
-	
-
+	<title>GagPages</title>
+<style type="text/css">
+html {
+	height: 100%;
+}
 body {
-  font-family: Arial;
-  margin: 0;
+	margin: 0;
+	height: 100%;
 }
-
-
-.header {
-  padding: 20px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
+#container {
+	height: 100%;
 }
-
-
-.content {padding:20px;}
-  
-  #sidebar {
-	background-color: #1abc9c;
+#sidebar {
+	background-color: #2980b9;
 	display: inline-block;
 	vertical-align: top;
 	height: 100%;
 	width: 18%;
 	overflow: auto;
-	  position: relative;
 }
-  
+#content {
+	background-color: #f8f8f8;
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+	width: 82%;
+	overflow: auto;
+}
 </style>
 </head>
-		<div id="wrap">
-    <div class="header">
-  <h1>GagPages</h1>
-  <p>For The Meme</p>
-</div>
-    <div id="body">
-        <div id="sidebar">
+
+<body>
+
+<div id="container">
+	<div id="sidebar">
 		<a href="jokes.html" style="color:#FFF700;"><h1>Jokes</h1></a>
 <p></p>
 		<a href="gags.html" style="color:#FFF700;"><h1>Gags</h1></a>
-		<div id="sidebar-content" style="height: 500px"></div>
-	        
-    </div>
-</div>
-	
-<body>
-
+		<div id="sidebar-content" style="height: 1400px"></div>
 	</div><div id="content">
-	    
-        <div id="main"><div align="center">
-  <h1>Content!</h1>
+		<h1>Content!</h1>
+		<div id="main-content" style="height: 1800px"></div>
+	</div>
 </div>
-	    </div>
 
-	
 </body>
 </html>
