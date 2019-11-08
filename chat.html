@@ -23,7 +23,8 @@
 
   /***** Your code goes here! *****/
   
-  var b = Bugout();
+ var b = Bugout("bugout-chat-tutorial");
+b.on("seen", function(address) { log(address + " [ seen ]"); });
 log(b.address() + " [ me ]");
 </script>
 </html>
