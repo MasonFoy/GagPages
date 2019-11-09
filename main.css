@@ -49,8 +49,9 @@ body {
 	color: transparent;
 }
 #video_list{
+	float:left;
     border: 4px black solid;
-    width: 500px;
+    width: 400px;
     height: 210px;
     margin-top: 30px;
     overflow: auto;
