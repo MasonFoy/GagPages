@@ -22,7 +22,7 @@ body {
 }
 #sidebar {
 	positition: relative;
-	background-color: #2980b9;
+	background-color: linear-gradient(to bottom, #66ffff 0%, #0033cc 100%);
 	display: inline-block;
 	vertical-align: top;
 	height: 100%;
@@ -30,7 +30,7 @@ body {
 	overflow: auto;
 }
 #sidebar a{
-	background: linear-gradient(to bottom, #66ffff 0%, #0033cc 100%);	
+	color: #fff700;	
 }
 #content {
 	text-align:center;
