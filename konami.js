@@ -2,12 +2,10 @@
 var allowedKeys = {
   77: 'M',
   69: 'E',
-  77: 'G',
-  69: 'A',
 };
 
 // the 'official' Konami Code sequence
-var konamiCode = ['M', 'E', 'G', 'A'];
+var konamiCode = ['M', 'E', 'M', 'E'];
 
 // a variable to remember the 'position' the user has reached so far.
 var konamiCodePosition = 0;
