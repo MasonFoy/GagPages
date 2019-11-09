@@ -48,3 +48,17 @@ body {
 	-webkit-background-clip: text;
 	color: transparent;
 }
+#video_list{
+    border: 4px black solid;
+    width: 1000px;
+    height: 230px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 30px;
+    overflow: auto;
+    white-space: nowrap;
+    background-color: white;
+}
+#video_list iframe{
+    margin:5px;
+}
