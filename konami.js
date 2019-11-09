@@ -37,4 +37,6 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
 audio.play()
+  
+  alert("To Stop Type Stop");
 }
