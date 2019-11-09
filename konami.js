@@ -2,8 +2,8 @@
 var allowedKeys = {
   77: 'M',
   69: 'E',
-  71: 'G',
-  65: 'A',
+  77: 'G',
+  69: 'A',
 };
 
 // the 'official' Konami Code sequence
