@@ -49,15 +49,15 @@ body {
 	color: transparent;
 }
 #video_list{
-	float:center;
-    border: 4px black solid;
+	float:right;
+    border: 4px "black" solid;
     width: 1100px;
     height: 210px;
     margin-top: 30px;
 	margin-left:25%;
     overflow: auto;
     white-space: nowrap;
-    background-color: white;
+    background-color: "white";
 }
 #video_list iframe{
     margin:5px;
