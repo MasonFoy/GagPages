@@ -43,6 +43,20 @@ body {
 	width: 82%;
 	overflow: auto;
 }
+#video_list{
+    border: 4px black solid;
+    width: 1000px;
+    height: 230px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 30px;
+    overflow: auto;
+    white-space: nowrap;
+    background-color: white;
+}
+#video_list iframe{
+    margin:5px;
+}
 .subtitle {
 	background-image: linear-gradient(to left, red, blue);
 	-webkit-background-clip: text;
