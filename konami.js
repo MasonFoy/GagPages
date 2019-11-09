@@ -36,5 +36,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-getContent = "src/Undertale - Megalovania.mp3"
+getContext = "src/Undertale - Megalovania.mp3"
 }
