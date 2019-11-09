@@ -52,8 +52,6 @@ body {
     border: 4px black solid;
     width: 500px;
     height: 210px;
-    margin-left: 2px;
-    margin-right: 25%;
     margin-top: 30px;
     overflow: auto;
     white-space: nowrap;
