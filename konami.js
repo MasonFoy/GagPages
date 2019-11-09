@@ -37,8 +37,3 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
 audio.play();
-  
-  alert(function pauseAudio() {
-  x.pause();
- })
-        }
