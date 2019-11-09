@@ -45,9 +45,8 @@ body {
 }
 #video_list{
     border: 4px black solid;
-    width: 1000px;
-    height: 230px;
-    margin-left: 25%;
+    width: 400px;
+    height: 100px;
     margin-right: 25%;
     margin-top: 30px;
     overflow: auto;
