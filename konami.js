@@ -37,4 +37,4 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
 audio.play()
-}
+};
