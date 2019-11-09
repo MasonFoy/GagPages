@@ -1,13 +1,13 @@
 // a key map of allowed keys
 var allowedKeys = {
-  83: 'M',
-  84: 'E',
-  79: 'G',
-  80: 'A',
+  83: 'S',
+  84: 'T',
+  79: 'O',
+  80: 'P',
 };
 
 // the Code sequence
-var konamiCode = ['M', 'E', 'G', 'A'];
+var konamiCode = ['S', 'T', 'O', 'P'];
 
 // a variable to remember the 'position' the user has reached so far.
 var konamiCodePosition = 0;
