@@ -6,7 +6,7 @@ var allowedKeys = {
   69: 'A',
 };
 
-// the 'official' Konami Code sequence
+// the Code sequence
 var konamiCode = ['M', 'E', 'G', 'A'];
 
 // a variable to remember the 'position' the user has reached so far.
