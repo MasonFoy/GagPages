@@ -1,11 +1,9 @@
 // a key map of allowed keys
 var allowedKeys = {
-  37: 'left',
-  38: 'up',
-  39: 'right',
-  40: 'down',
-  65: 'a',
-  66: 'b'
+  77: 'M',
+  69: 'E',
+  71: 'G',
+  65: 'A',
 };
 
 // the 'official' Konami Code sequence
