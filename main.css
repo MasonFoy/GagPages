@@ -30,7 +30,7 @@ body {
 	overflow: auto;
 }
 #sidebar a{
-	color: #FFF700;	
+	background: linear-gradient(to bottom, #66ffff 0%, #0033cc 100%);	
 }
 #content {
 	text-align:center;
