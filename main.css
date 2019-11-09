@@ -13,6 +13,9 @@ body {
 	color:#2980b9;
 	text-decoration: underline;
 	font-size:36px;
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+	-webkit-background-clip: text;
+	color: transparent;
 }
 #container {
 	height: 800px;
@@ -41,7 +44,7 @@ body {
 	overflow: auto;
 }
 .subtitle {
-	background-image: linear-gradient(to left, red, violet, blue);
+	background-image: linear-gradient(to left, red, blue);
 	-webkit-background-clip: text;
 	color: transparent;
 }
