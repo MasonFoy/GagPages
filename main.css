@@ -49,7 +49,7 @@ body {
 	color: transparent;
 }
 #video_list{
-	float:left;
+	float:center;
     border: 4px black solid;
     width: 400px;
     height: 210px;
