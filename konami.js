@@ -6,7 +6,7 @@ var allowedKeys = {
   69: 'A',
 };
 
-// the Code sequence
+// the 'official' Konami Code sequence
 var konamiCode = ['M', 'E', 'G', 'A'];
 
 // a variable to remember the 'position' the user has reached so far.
@@ -36,7 +36,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-audio.play()
-  
-  alert("To Stop Type 'STOP'");
+audio.play();
 }
