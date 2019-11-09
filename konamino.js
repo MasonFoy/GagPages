@@ -1,8 +1,7 @@
 // a key map of allowed keys
-var allowedKeys = {
-  83: 'S',
+83: 'S',
   84: 'T',
-  79: 'O',
+    79: 'O',
   80: 'P',
 };
 
