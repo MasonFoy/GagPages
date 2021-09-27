@@ -10,6 +10,8 @@ var konamiCode = ['M', 'E', 'M', 'E'];
 // a variable to remember the 'position' the user has reached so far.
 var konamiCodePosition = 0;
 
+var audio = new Audio('https://masonfoy.github.io/GagPages/Undertale%20-%20Megalovania_.mp3')
+
 // add keydown event listener
 document.addEventListener('keydown', function(e) {
   // get the value of the key code from the key map
